@@ -1,0 +1,15 @@
+{
+  "name": "cah",
+  "version": "0.0.1",
+  "private": true,
+  "description": "",
+  "main": "index.js",
+  "author": "Daniel Cohen <dcohenb@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "lodash": "^4.5.1"
+  },
+  "devDependencies": {
+    "expect.js": "^0.3.1"
+  }
+}
